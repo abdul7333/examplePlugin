@@ -8,7 +8,7 @@ const ExamplePlugin = {
     render: () => {
       return <div>
         <h1>Example Plugin Content</h1>
-        <p>Header</p>
+        <p>Content Para<strong>content</strong></p>
       </div>
     },
   };
