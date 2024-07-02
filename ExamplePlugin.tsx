@@ -6,7 +6,7 @@ const ExamplePlugin = {
       console.log("ExamplePlugin initialized");
     },
     render: () => {
-      return <div>Example Plugin Content</div>;
+      return <h1>Example Plugin Content</h1>;
     },
   };
   
