@@ -1,4 +1,3 @@
-// plugins/ExamplePlugin.js
 const ExamplePlugin = {
     name: "ExamplePlugin",
     version: "1.0.0",
@@ -17,4 +16,3 @@ const ExamplePlugin = {
     },
   };
   
-  export default ExamplePlugin;
